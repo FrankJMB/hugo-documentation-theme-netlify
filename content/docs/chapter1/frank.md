@@ -1,7 +1,11 @@
 ---
-title: Frank Title
-description: Frank Description
-date: 2023-10-04
+title: Frank
+linktitle: Frank
+type: book
+date: '2019-05-05T00:00:00+01:00'
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 4
 ---
 
 # Heading 1
